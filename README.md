@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcovb279
-- 👀 I’m interested in ... DevOps, Math, AI, Start-ups
+- 👀 I’m interested in ... DevOps, Math, AI, AWS, Start-ups
 - 🌱 I’m currently learning ... Cloud Services, Math
 - 💞️ I’m looking to collaborate on ... anything interesting
 - 📫 Connect with me in ...
