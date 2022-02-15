@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcovb279
-- 👀 I’m interested in ... DevOps, Math, AI, AWS, Start-ups
-- 🌱 I’m currently learning ... DevOps, AI, Math
+- 👀 I’m interested in ... Math, AI, AWS, DevOps, Start-ups
+- 🌱 I’m currently learning ... AI, Math
 - 💞️ I’m looking to collaborate on ... anything interesting
 - 📫 Connect with me in ...
 -     email: marcovb279@gmail.com
