@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcovb279
 - 👀 I’m interested in ... Math, AI, AWS, DevOps, Start-ups
-- 🌱 I’m currently learning ... AI, Math
+- 🌱 I’m currently learning ... AI, Math (The forked repositories are some explorations)
 - 💞️ I’m looking to collaborate on ... entrepreneurship, technology & science
 - 📫 Connect with me in ...
 -     linkedin: www.linkedin.com/in/marco-vasquez-beltran/
