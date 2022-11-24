@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcovb279
+- 👋 Hi, I’m @mavasbel
 - 👀 I’m interested in ... Math, AI, AWS, DevOps, Start-ups
 - 🌱 I’m currently learning ... AI, Math
 - 💞️ I’m looking to collaborate on ... entrepreneurship, technology & science
